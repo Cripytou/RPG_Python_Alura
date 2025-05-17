@@ -1,4 +1,9 @@
 # **Ascensão do Coder**
+
+## Sinopse 
+
+
+## O RPG
 É um RPG de texto onde o Google Gemini atua como um mestre de RPG enquanto ensina Python para iniciantes.
 
 Desenvolvido no Google Colab.
