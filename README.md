@@ -1,4 +1,4 @@
-# **Ascensão do Coder**
+# **A Ascensão do Coder**
 
 ## Sinopse 
 Um mundo onde a magia chamada Python está sendo usada pelo Mago Supremo e seus "erros", para destruir o mundo.
