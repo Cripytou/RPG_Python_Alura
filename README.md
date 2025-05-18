@@ -83,16 +83,23 @@ Desenvolvido no Google Colab.
 Iremos jogar esse RPG através do terminal pois é feito a partir de textos.
 
 Ao iniciar a primeira coisa que vai pedir é o nome do Herói, sinta-se a vontade para escolher qualquer nome.
+![image](https://github.com/user-attachments/assets/b4bbcc06-fe87-4b58-b42a-595aa43d3dc3)
 
 Ao dar seu nome, o mestre vai começar a contar parte da história junto com o contexto da programação em Python, então teremos desafios(códigos) básicos para resolver.
 
 Ao receber o desafio, o mestre vai explicar como deve fazer esse código e o jogador vai por a resposta no terminal.
+![image](https://github.com/user-attachments/assets/b61ec0e1-66f1-4fad-aff4-531368097681)
 
 Na escola se errar o código não se preocupe, não terá inimigos então será impossível morrer, apenas quando avançarmos para a próxima etapa da história teremos os "erros"(inimigos).
-Ao aparecer os inimigos, ao errar o códigos vamos ter a mecânica de vida, que ao errar você vai perder parte dela, mas não se preocupe, existe um sistema de cura para isso, onde
-escrever no terminal para se curar e fazer o código para se curar.
+Ao aparecer os inimigos, ao errar o códigos vamos ter a mecânica de vida, que ao errar você vai perder parte dela, mas não se preocupe, existe um sistema de cura para isso, escrevendo no terminal para se curar.
 
-Em certas partes do jogo vão ter escolhas, por exemplo, se quer sair da escola para aventura ou ficar mais para aprender, dada a escolha do jogador basta escolher no terminal.
+Em certas partes do jogo vão ter escolhas, por exemplo, se quer sair da escola para começar a aventura ou ficar mais para aprender, dada a escolha do jogador basta escolher no terminal.
 
 O mestre vai sempre fazer isso de forma aleatória, então sempre vai vir diálogos e dialogos diferentes a cada jogada.
+
+## Lógica de programação
+Não precisa ter nenhum conhecimento amplo de lógica de programação, esse jogo foi feito para te ensinar o básico para começar de uma forma divertida.
+Caso se sinta perdido nas resposta não hesite em procurar ajuda de forma externa.
+
+# Se divirta!
 
