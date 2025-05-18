@@ -4,6 +4,7 @@
 Um mundo onde a magia chamada Python está sendo usada pelo Mago Supremo e seus "erros", para destruir o mundo.
 Você Herói deve aprender a magia de Python para impedir e partir para a aventura para salvar o mundo do grande Mago Supremo e seus "erros".
 
+### Desenvolvido no Google Colab
 ## O RPG
 É um RPG de texto onde o Google Gemini vai ser o nosso chat bot atuando como um mestre de RPG enquanto ensina Python para iniciantes.
 
@@ -76,8 +77,6 @@ A campanha vai ser divida em 3 partes:
       <(  O  )>|
        /|__|\  |
         /  \   |
-
-Desenvolvido no Google Colab.
 
 ## Como Funciona
 Iremos jogar esse RPG através do terminal pois é feito a partir de textos.
