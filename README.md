@@ -19,63 +19,63 @@ A campanha vai ser divida em 3 partes:
 "Erros" e Mago Supremo:
 ![image](https://github.com/user-attachments/assets/a9668856-cf58-4bbf-83b0-ece1c1dd6126)
 
-## **Todas as imagens são meramente ilustrativas)**
+## **(Todas as imagens são meramente ilustrativas)**
 
 ### Artes originais:
 ### school
      
-     _____
-    /     \
-   /       \
-  / PYTHON  \
- /  SCHOOL   \
-/_____________\
-    |     |
-    |     |
-    |_____|
+          _____
+         /     \
+        /       \
+       / PYTHON  \
+      /  SCHOOL   \
+     /_____________\
+         |     |
+         |     |
+         |_____|
 
    ### forest
-   /\
-  /  \  /\
- /    \/  \
-/          \
-|  FOREST    |
- \          /
-  \ /\/\   /
-   \/    \/
+        /\
+       /  \  /\
+      /    \/  \
+     /          \
+     |  FOREST    |
+      \          /
+       \ /\/\   /
+        \/    \/
 
  ### castle
-     /\
-    /  \
-   /____\
-   |    |
-   |    |
-   |    |
-  /|    |\
- / |    | \
-/__|____|__\
+          /\
+         /  \
+        /____\
+        |    |
+        |    |
+        |    |
+       /|    |\
+      / |    | \
+     /__|____|__\
 
     
 ### SyntaxError
- ( o.o )
->(  ^  )<
-  /    \
+      ( o.o )
+     >(  ^  )<
+       /    \
 
  ### TypeError
- ( x.x )
-=(  -  )=
-  /    \
+      ( x.x )
+     =(  -  )=
+       /    \
 
  ### NameError
- (?.?)
-<(=Y=)>
-  / \
+      (?.?)
+     <(=Y=)>
+       / \
 
  ### MagoSupremo
-  ( ^_^ ) ?
- <(  O  )>|
-  /|__|\  |
-   /  \   |
+       ( ^_^ ) ?
+      <(  O  )>|
+       /|__|\  |
+        /  \   |
 
 Desenvolvido no Google Colab.
 
