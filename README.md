@@ -10,19 +10,12 @@ Você Herói deve aprender a magia de Python para impedir e partir para a aventu
 
 A campanha vai ser divida em 3 partes:
 ### A escola
-![image](https://github.com/user-attachments/assets/4c1be94f-f284-4034-8f04-63b363e2c7a2)
 ### A floresta
-![image](https://github.com/user-attachments/assets/a9c7c374-790a-410f-a013-80fde789eadb)
 ### O castelo
-![image](https://github.com/user-attachments/assets/103d9d83-5977-4d81-928a-50f380e2c0e0)
 
 ### Inimigos:
 "Erros" e Mago Supremo:
-![image](https://github.com/user-attachments/assets/a9668856-cf58-4bbf-83b0-ece1c1dd6126)
 
-## **(Todas as imagens são meramente ilustrativas)**
-
-### Artes originais:
 ### school
      
           _____
